@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ajayjoji1723
-- 👀 I’m interested in Wroking as Developer
-- 🌱 I’m currently learning Full Stack Development
+- 👀 I’m  Wroking as MERN Stack Developer at Perfex Technologies
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me ...
 
